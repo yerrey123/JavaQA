@@ -1,4 +1,6 @@
 # JavaQA
+
+
 1) How can I ensure that my code, program, or software is functional and secure?
 I can ensure that my code, program and software are functional is ensuring i do my due diligence in testing the software, testing the program and code ensuring that there are no errors. Also having a peer review really helps catching things that are not the norm. 
 
